@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spmseafood/static/css/main.75e6e955.css",
+    "main.js": "/spmseafood/static/js/main.8e72f913.js",
+    "static/js/453.a5ae787a.chunk.js": "/spmseafood/static/js/453.a5ae787a.chunk.js",
+    "index.html": "/spmseafood/index.html",
+    "main.75e6e955.css.map": "/spmseafood/static/css/main.75e6e955.css.map",
+    "main.8e72f913.js.map": "/spmseafood/static/js/main.8e72f913.js.map",
+    "453.a5ae787a.chunk.js.map": "/spmseafood/static/js/453.a5ae787a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e6e955.css",
+    "static/js/main.8e72f913.js"
+  ]
+}
